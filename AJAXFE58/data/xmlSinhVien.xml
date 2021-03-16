@@ -1,0 +1,8 @@
+<DanhSachSinhVien>
+    <SinhVien maSV="1" tenSV="Nguyễn Văn A">
+        Nguyễn Văn A
+    </SinhVien>
+    <SinhVien maSV="2" tenSV="Nguyễn Văn B">
+        Nguyễn Văn B
+    </SinhVien>
+</DanhSachSinhVien>
